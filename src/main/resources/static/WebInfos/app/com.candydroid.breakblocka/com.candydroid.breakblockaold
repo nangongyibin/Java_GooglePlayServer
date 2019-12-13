@@ -1,0 +1,70 @@
+{
+    "APP_TYPE": "2",
+    "CERTIFICATION_STATUS": "1",
+    "CODE": 200,
+    "COMMENT_COUNT": "998",
+    "CORNER_ICON": "",
+    "DEVELOPER": "zhu",
+    "DISPLAY_AD_LOCATION": 1,
+    "DOWNLOAD_URL": "http://gm.apk.anzhi.com/data2/apk/201405/29/com.candydroid.breakblocka_64077500.apk",
+    "EBOOK_CATEGORY_NAME": "",
+    "EBOOK_CHARGE": -1,
+    "EBOOK_CHARGE_TEXT": "",
+    "EXPIRED_INTERVAL": 1744,
+    "ICON": "http://img3.anzhi.com/data2/icon/201404/18/com.candydroid.breakblocka_26058900_96.png",
+    "ID": 1602147,
+    "IS_DISPLAY_AD": true,
+    "KEY": "SOFT_DETAIL",
+    "OFFICIAL_ICON": "",
+    "OFFICIAL_STATUS": 0,
+    "OSAE_INFO": [
+        [
+            "http://img3.anzhi.com/img/201312/11/07533000.png",
+            "http://img3.anzhi.com/img/201312/09/03956000.png",
+            "已通过安智市场安全检测，请放心使用",
+            0
+        ],
+        [
+            "http://img3.anzhi.com/img/201312/11/45682400.png",
+            "http://img3.anzhi.com/img/201312/24/28063600.png",
+            "含广告，可能会影响您的使用体验",
+            1
+        ]
+    ],
+    "OTHER_APP_COUNT": "17",
+    "PACKAGENAME": "com.candydroid.breakblocka",
+    "PERMISSION_LIST": [
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.CHANGE_WIFI_STATE",
+        "android.permission.GET_TASKS",
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        "android.permission.READ_EXTERNAL_STORAGE"
+    ],
+    "PRODUCT_STATUS": 0,
+    "REQ_LIB": [],
+    "SIGNATURE": "1151071123,1316268749",
+    "SOFT_DESCRIBE": "一款经典的打砖块游戏，画面玩法都还不错，运行也十分流畅。游戏包括60个关卡，支持3种不同速度的节奏。",
+    "SOFT_DOWNLOAD_REGION": "300万+",
+    "SOFT_FEES": "0",
+    "SOFT_ICON_URL": "http://img3.anzhi.com/data2/icon/201404/18/com.candydroid.breakblocka_26058900_125.png",
+    "SOFT_NAME": "打砖块​​​​​​​​​​​",
+    "SOFT_PROMULGATE_TIME": "2014-05-29",
+    "SOFT_SCREENSHOT_THUMBNAIL_URL": [
+        "http://img3.anzhi.com/data1/thumb/201402/16/com.candydroid.breakblocka_11632800.jpg",
+        "http://img3.anzhi.com/data1/thumb/201402/16/com.candydroid.breakblocka_13160200.jpg",
+        "http://img3.anzhi.com/data1/thumb/201402/16/com.candydroid.breakblocka_14640200.jpg",
+        "http://img3.anzhi.com/data2/thumb/201404/18/com.candydroid.breakblocka_62828800.jpg"
+    ],
+    "SOFT_SCREENSHOT_URL": [
+        "http://img3.anzhi.com/data1/thumb/201402/16/com.candydroid.breakblocka_12102100.jpg",
+        "http://img3.anzhi.com/data1/thumb/201402/16/com.candydroid.breakblocka_13625300.jpg",
+        "http://img3.anzhi.com/data1/thumb/201402/16/com.candydroid.breakblocka_15110600.jpg",
+        "http://img3.anzhi.com/data2/thumb/201404/18/com.candydroid.breakblocka_63297700.jpg"
+    ],
+    "SOFT_SIZE": "3854898",
+    "SOFT_STAR": "6",
+    "SOFT_VERSION": "11.0.0.28",
+    "SOFT_VERSION_CODE": "4000028",
+    "UPDATE_DES": "修复部分关卡的bug~~
+"
+}

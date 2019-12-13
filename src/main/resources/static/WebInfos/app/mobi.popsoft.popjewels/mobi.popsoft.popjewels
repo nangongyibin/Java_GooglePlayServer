@@ -1,0 +1,41 @@
+{
+    "author": "popsoft",
+    "date": "2013-12-25",
+    "des": "《天天消宝石》是一款经典休闲消除游戏。玩家只需快速寻找游戏中三个或者三个以上连接在一起的相同宝石并点击它们，就可消除这些宝石，多次连击可以使玩家获得更高的分数，玩家可以达到分数来升级、解锁和获得多种道具，配合道具的使用可以让您玩得更High!",
+    "downloadNum": "200万+",
+    "downloadUrl": "app/mobi.popsoft.popjewels/mobi.popsoft.popjewels.apk",
+    "iconUrl": "app/mobi.popsoft.popjewels/icon.jpg",
+    "id": 1265267,
+    "name": "天天消宝石",
+    "packageName": "mobi.popsoft.popjewels",
+    "safe": [
+        {
+            "safeDes": "已通过安智市场官方认证，是正版软件",
+            "safeDesColor": 0,
+            "safeDesUrl": "app/mobi.popsoft.popjewels/safeDesUrl0.jpg",
+            "safeUrl": "app/mobi.popsoft.popjewels/safeIcon0.jpg"
+        },
+        {
+            "safeDes": "已通过安智市场安全检测，请放心使用",
+            "safeDesColor": 0,
+            "safeDesUrl": "app/mobi.popsoft.popjewels/safeDesUrl1.jpg",
+            "safeUrl": "app/mobi.popsoft.popjewels/safeIcon1.jpg"
+        },
+        {
+            "safeDes": "无任何形式的广告",
+            "safeDesColor": 0,
+            "safeDesUrl": "app/mobi.popsoft.popjewels/safeDesUrl2.jpg",
+            "safeUrl": "app/mobi.popsoft.popjewels/safeIcon2.jpg"
+        }
+    ],
+    "screen": [
+        "app/mobi.popsoft.popjewels/screen0.jpg",
+        "app/mobi.popsoft.popjewels/screen1.jpg",
+        "app/mobi.popsoft.popjewels/screen2.jpg",
+        "app/mobi.popsoft.popjewels/screen3.jpg",
+        "app/mobi.popsoft.popjewels/screen4.jpg"
+    ],
+    "size": 5100994,
+    "stars": 3.0,
+    "version": "2.2"
+}

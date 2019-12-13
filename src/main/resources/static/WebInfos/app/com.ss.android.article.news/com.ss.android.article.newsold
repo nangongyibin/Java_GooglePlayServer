@@ -1,0 +1,88 @@
+{
+    "APP_TYPE": "1",
+    "CERTIFICATION_STATUS": "0",
+    "CODE": 200,
+    "COMMENT_COUNT": "13520",
+    "CORNER_ICON": "",
+    "DEVELOPER": "字节跳动",
+    "DISPLAY_AD_LOCATION": 0,
+    "DOWNLOAD_URL": "http://am.apk.anzhi.com/data2/apk/201406/10/com.ss.android.article.news_57621400.apk",
+    "EBOOK_CATEGORY_NAME": "",
+    "EBOOK_CHARGE": -1,
+    "EBOOK_CHARGE_TEXT": "",
+    "EXPIRED_INTERVAL": 1141,
+    "ICON": "http://img3.anzhi.com/data2/icon/201404/18/com.ss.android.article.news_58595400_96.png",
+    "ID": 1631309,
+    "IS_DISPLAY_AD": false,
+    "KEY": "SOFT_DETAIL",
+    "OFFICIAL_ICON": "http://img3.anzhi.com/img/201302/22/57875300.png",
+    "OFFICIAL_STATUS": 1,
+    "OSAE_INFO": [
+        [
+            "http://img3.anzhi.com/img/201312/11/71554500.png",
+            "http://img3.anzhi.com/img/201312/09/80509000.png",
+            "已通过安智市场官方认证，是正版软件",
+            0
+        ]
+    ],
+    "OTHER_APP_COUNT": "13",
+    "PACKAGENAME": "com.ss.android.article.news",
+    "PERMISSION_LIST": [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.WRITE_SECURE_SETTINGS",
+        "com.android.launcher.permission.READ_SETTINGS"
+    ],
+    "PRODUCT_STATUS": 0,
+    "REQ_LIB": [],
+    "SIGNATURE": "675460454,-89201364",
+    "SOFT_DESCRIBE": "★用户量过亿的新闻阅读客户端
+★占领AppStore新闻类榜首15个月
+★每天用户总在线时长3.5亿分钟
+★每天社交平台分享量达60万次
+★5秒钟掌握你的阅读兴趣点
+今日头条，完全区别于其他新闻客户端和阅读软件，秒懂你的阅读喜好，秒杀你的碎片化时间。
+聚合各大门户的全平台资讯，涵盖热点、科技、财经、社会、国际、娱乐、段子、图片、体育、军事、汽车...
+我们致力于通过精准的智能算法，为你提供个性化的资讯内容和阅读体验。
+【软件特点】
+1）内容全面：聚合超过2000个内容站点
+2）更新及时：24小时不间断更新
+3）推荐精准：每个人都不一样的阅读内容
+4）评论精彩：可能比文章更劲爆
+5）分享便捷：全社交平台一键分享
+【欢迎移步，献计献策有礼包】
+通过以下任意方式表达您的意见或是建议，有机会获得标兵用户大礼包。
+公众账号：今日头条headline_today
+官方微博：@今日头条
+官方QQ群：237557116
+官网：www.toutiao.com
+反馈邮箱：kefu@bytedance.com
+今日头条团队感谢您的使用！",
+    "SOFT_DOWNLOAD_REGION": "500万+",
+    "SOFT_FEES": "0",
+    "SOFT_ICON_URL": "http://img3.anzhi.com/data2/icon/201404/18/com.ss.android.article.news_58595400_125.png",
+    "SOFT_NAME": "今日头条",
+    "SOFT_PROMULGATE_TIME": "2014-06-10",
+    "SOFT_SCREENSHOT_THUMBNAIL_URL": [
+        "http://img3.anzhi.com/data2/thumb/201406/10/com.ss.android.article.news_00146200.jpg",
+        "http://img3.anzhi.com/data2/thumb/201406/10/com.ss.android.article.news_01699600.jpg",
+        "http://img3.anzhi.com/data2/thumb/201406/10/com.ss.android.article.news_03170900.jpg",
+        "http://img3.anzhi.com/data2/thumb/201406/10/com.ss.android.article.news_04594400.jpg",
+        "http://img3.anzhi.com/data2/thumb/201406/10/com.ss.android.article.news_05943700.jpg"
+    ],
+    "SOFT_SCREENSHOT_URL": [
+        "http://img3.anzhi.com/data2/thumb/201406/10/com.ss.android.article.news_00624400.jpg",
+        "http://img3.anzhi.com/data2/thumb/201406/10/com.ss.android.article.news_02141900.jpg",
+        "http://img3.anzhi.com/data2/thumb/201406/10/com.ss.android.article.news_03610500.jpg",
+        "http://img3.anzhi.com/data2/thumb/201406/10/com.ss.android.article.news_05028600.jpg",
+        "http://img3.anzhi.com/data2/thumb/201406/10/com.ss.android.article.news_06388400.jpg"
+    ],
+    "SOFT_SIZE": "5599469",
+    "SOFT_STAR": "9",
+    "SOFT_VERSION": "3.5.0",
+    "SOFT_VERSION_CODE": "350",
+    "UPDATE_DES": "&quot;1 好友动态全面升级，和朋友之间互动更方便
+2 全新的个人主页和消息通知机制
+3 修复了一些bug&quot;
+"
+}

@@ -1,0 +1,120 @@
+{
+    "APP_TYPE": "1",
+    "CERTIFICATION_STATUS": "1",
+    "CODE": 200,
+    "COMMENT_COUNT": "12521",
+    "CORNER_ICON": "",
+    "DEVELOPER": "北京酷我科技有限公司",
+    "DISPLAY_AD_LOCATION": 0,
+    "DOWNLOAD_URL": "http://am.apk.anzhi.com/data2/apk/201405/09/cn.kuwo.player_22924100.apk",
+    "EBOOK_CATEGORY_NAME": "",
+    "EBOOK_CHARGE": -1,
+    "EBOOK_CHARGE_TEXT": "",
+    "EXPIRED_INTERVAL": 352,
+    "ICON": "http://img3.anzhi.com/data2/icon/201404/22/cn.kuwo.player_37828600_96.png",
+    "ID": 1559731,
+    "IS_DISPLAY_AD": false,
+    "KEY": "SOFT_DETAIL",
+    "OFFICIAL_ICON": "http://img3.anzhi.com/img/201302/22/57875300.png",
+    "OFFICIAL_STATUS": 1,
+    "OSAE_INFO": [
+        [
+            "http://img3.anzhi.com/img/201312/11/71554500.png",
+            "http://img3.anzhi.com/img/201312/09/80509000.png",
+            "已通过安智市场官方认证，是正版软件",
+            0
+        ],
+        [
+            "http://img3.anzhi.com/img/201312/11/07533000.png",
+            "http://img3.anzhi.com/img/201312/09/03956000.png",
+            "已通过安智市场安全检测，请放心使用",
+            0
+        ],
+        [
+            "http://img3.anzhi.com/img/201312/11/46925200.png",
+            "http://img3.anzhi.com/img/201312/09/48620000.png",
+            "无任何形式的广告",
+            0
+        ]
+    ],
+    "OTHER_APP_COUNT": "8",
+    "PACKAGENAME": "cn.kuwo.player",
+    "PERMISSION_LIST": [
+        "android.permission.BLUETOOTH",
+        "android.permission.CAMERA",
+        "android.permission.DISABLE_KEYGUARD",
+        "android.permission.KILL_BACKGROUND_PROCESSES",
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        "android.permission.MOUNT_FORMAT_FILESYSTEMS",
+        "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+        "android.permission.READ_LOGS",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.REORDER_TASKS",
+        "android.permission.SEND_SMS",
+        "android.permission.WRITE_SETTINGS",
+        "com.android.launcher.permission.INSTALL_SHORTCUT",
+        "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+        "android.permission.SYSTEM_OVERLAY_WINDOW",
+        "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+        "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION"
+    ],
+    "PRODUCT_STATUS": 0,
+    "REQ_LIB": [],
+    "SIGNATURE": "-515560320,-1517603076",
+    "SOFT_DESCRIBE": "【产品简介】
+酷我音乐2014（音乐播放器）Android版是北京酷我科技有限公司精心打造的手机客户端，提供强大的音乐搜索和高速下载歌曲功能、全球最全音乐曲库，最专业的音频解码核心技术，完美实现各种音频格式的高保真播放，是目前最受android用户欢迎的免费手机播放器。
+【功能亮点】
+---全面支持各种音频格式。
+---轻轻摇晃手机自动切换你想要的歌曲
+---独创横屏舞台，打造春晚舞台效果
+---歌曲下载迅速，便利，海量的歌曲资源
+---高清图片，不一样的视觉享受
+---绚丽的歌手写真背景，听歌看歌词，就是享受
+---功能贴心，睡眠模式、线控、甩歌方便实用
+---云存储功能，电脑与手机歌曲随时同步
+---一点即播的试听享受，网络资源，就是您的资源
+【关于酷我】
+酷我音乐（www.kuwo.com）是国内最大的正版音乐平台,
+提供免费在线音乐试听、下载和MV播放等服务。
+酷我音乐拥有海量的正版音乐曲库,实时更新全球音乐排行榜,
+播放更流畅,音质更完美。
+【联系方式】
+感谢您体验酷我音乐2014，使用中有任何问题均可通过以下
+方式进行反馈：
+QQ交流群：161350289/35183336
+邮箱：sjs@kuwo.cn
+新浪微博：请关注“酷我音乐”",
+    "SOFT_DOWNLOAD_REGION": "3000万+",
+    "SOFT_FEES": "0",
+    "SOFT_ICON_URL": "http://img3.anzhi.com/data2/icon/201404/22/cn.kuwo.player_37828600_125.png",
+    "SOFT_NAME": "酷我音乐",
+    "SOFT_PROMULGATE_TIME": "2014-05-09",
+    "SOFT_SCREENSHOT_THUMBNAIL_URL": [
+        "http://img3.anzhi.com/data1/thumb/201402/11/cn.kuwo.player_65117400.jpg",
+        "http://img3.anzhi.com/data1/thumb/201402/11/cn.kuwo.player_66865400.jpg",
+        "http://img3.anzhi.com/data1/thumb/201402/11/cn.kuwo.player_68498100.jpg",
+        "http://img3.anzhi.com/data1/thumb/201402/11/cn.kuwo.player_70177600.jpg",
+        "http://img3.anzhi.com/data1/thumb/201402/11/cn.kuwo.player_72032100.jpg"
+    ],
+    "SOFT_SCREENSHOT_URL": [
+        "http://img3.anzhi.com/data1/thumb/201402/11/cn.kuwo.player_65617800.jpg",
+        "http://img3.anzhi.com/data1/thumb/201402/11/cn.kuwo.player_67373900.jpg",
+        "http://img3.anzhi.com/data1/thumb/201402/11/cn.kuwo.player_69030600.jpg",
+        "http://img3.anzhi.com/data1/thumb/201402/11/cn.kuwo.player_70671900.jpg",
+        "http://img3.anzhi.com/data1/thumb/201402/11/cn.kuwo.player_72539000.jpg"
+    ],
+    "SOFT_SIZE": "9280773",
+    "SOFT_STAR": "7",
+    "SOFT_VERSION": "6.2.9.0",
+    "SOFT_VERSION_CODE": "6290",
+    "UPDATE_DES": "V6.2.9版本
+6.2.9新增功能：
+1、优化本地歌曲快速定位，找歌更方便
+2、优化分享，分享更快捷
+3、修复部分用户反馈bug
+
+
+
+本产品完全免费，下载产生的流量费用由运营商收取。
+"
+}

@@ -1,0 +1,12 @@
+
+server:
+  #指定端口
+  port: 8080
+  #指定项目名
+  servlet:
+    context-path: /GooglePlayServer
+
+
+configure:
+  #配置文件的访问前缀
+  dir: D:/Users/ASUS/WorkSpace/Java/GooglePlayServer/src/main/resources/static

@@ -1,0 +1,34 @@
+{
+    "author": "zhu",
+    "date": "2014-05-29",
+    "des": "一款经典的打砖块游戏，画面玩法都还不错，运行也十分流畅。游戏包括60个关卡，支持3种不同速度的节奏。",
+    "downloadNum": "300万+",
+    "downloadUrl": "app/com.candydroid.breakblocka/com.candydroid.breakblocka.apk",
+    "iconUrl": "app/com.candydroid.breakblocka/icon.jpg",
+    "id": 1602147,
+    "name": "打砖块​​​​​​​​​​​",
+    "packageName": "com.candydroid.breakblocka",
+    "safe": [
+        {
+            "safeDes": "已通过安智市场安全检测，请放心使用",
+            "safeDesColor": 0,
+            "safeDesUrl": "app/com.candydroid.breakblocka/safeDesUrl0.jpg",
+            "safeUrl": "app/com.candydroid.breakblocka/safeIcon0.jpg"
+        },
+        {
+            "safeDes": "含广告，可能会影响您的使用体验",
+            "safeDesColor": 1,
+            "safeDesUrl": "app/com.candydroid.breakblocka/safeDesUrl1.jpg",
+            "safeUrl": "app/com.candydroid.breakblocka/safeIcon1.jpg"
+        }
+    ],
+    "screen": [
+        "app/com.candydroid.breakblocka/screen0.jpg",
+        "app/com.candydroid.breakblocka/screen1.jpg",
+        "app/com.candydroid.breakblocka/screen2.jpg",
+        "app/com.candydroid.breakblocka/screen3.jpg"
+    ],
+    "size": 3854898,
+    "stars": 3.0,
+    "version": "11.0.0.28"
+}

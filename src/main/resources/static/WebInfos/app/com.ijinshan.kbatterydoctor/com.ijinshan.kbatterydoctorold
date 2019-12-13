@@ -1,0 +1,107 @@
+{
+    "APP_TYPE": "1",
+    "CERTIFICATION_STATUS": "1",
+    "CODE": 200,
+    "COMMENT_COUNT": "13174",
+    "CORNER_ICON": "",
+    "DEVELOPER": "贝壳网际（北京）安全技术有限公司",
+    "DISPLAY_AD_LOCATION": 0,
+    "DOWNLOAD_URL": "http://am.apk.anzhi.com/data2/apk/201406/10/com.ijinshan.kbatterydoctor_65849800.apk",
+    "EBOOK_CATEGORY_NAME": "",
+    "EBOOK_CHARGE": -1,
+    "EBOOK_CHARGE_TEXT": "",
+    "EXPIRED_INTERVAL": 1408,
+    "ICON": "http://img3.anzhi.com/data2/icon/201405/19/com.ijinshan.kbatterydoctor_94542900_96.png",
+    "ID": 1631260,
+    "IS_DISPLAY_AD": false,
+    "KEY": "SOFT_DETAIL",
+    "OFFICIAL_ICON": "http://img3.anzhi.com/img/201302/22/57875300.png",
+    "OFFICIAL_STATUS": 1,
+    "OSAE_INFO": [
+        [
+            "http://img3.anzhi.com/img/201312/11/71554500.png",
+            "http://img3.anzhi.com/img/201312/09/80509000.png",
+            "已通过安智市场官方认证，是正版软件",
+            0
+        ],
+        [
+            "http://img3.anzhi.com/img/201312/11/07533000.png",
+            "http://img3.anzhi.com/img/201312/09/03956000.png",
+            "已通过安智市场安全检测，请放心使用",
+            0
+        ],
+        [
+            "http://img3.anzhi.com/img/201312/11/46925200.png",
+            "http://img3.anzhi.com/img/201312/09/48620000.png",
+            "无任何形式的广告",
+            0
+        ]
+    ],
+    "OTHER_APP_COUNT": "8",
+    "PACKAGENAME": "com.ijinshan.kbatterydoctor",
+    "PERMISSION_LIST": [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.BATTERY_STATS",
+        "android.permission.BLUETOOTH",
+        "android.permission.BLUETOOTH_ADMIN",
+        "android.permission.CHANGE_NETWORK_STATE",
+        "android.permission.CLEAR_APP_CACHE",
+        "android.permission.DISABLE_KEYGUARD",
+        "android.permission.GET_PACKAGE_SIZE",
+        "android.permission.READ_SYNC_SETTINGS",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.RESTART_PACKAGES",
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_SETTINGS",
+        "android.permission.WRITE_SYNC_SETTINGS",
+        "com.android.launcher.permission.INSTALL_SHORTCUT",
+        "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+        "android.permission.WRITE_INTERNAL_STORAGE"
+    ],
+    "PRODUCT_STATUS": 0,
+    "REQ_LIB": [
+        "android.test.runner"
+    ],
+    "SIGNATURE": "931564340,-1341082074",
+    "SOFT_DESCRIBE": "金山电池医生,可延长手机1倍待机时间.专业充电,智能省电,精准预测可用时间,超过一亿安卓手机用户使用.
+主要功能：
+1. 耗电评分,权威
+全球首发,数十项标准,涵盖手机硬件系统,用户使用习惯,应用耗电性能等,手机耗电一目了然.
+2. 省电,只需一键
+关闭耗电应用,优化硬件设置,深度省电,只需一键.更多省电功能,省电秘籍,让省电更全面.
+3. 专业充电,酷炫
+专业的三段式充电,支持随用随充,电量更饱满,待机更持久.酷炫充电屏保,充电不再枯燥.
+4. 可用时间预测,精准
+基于千万用户海量数据分析,结合当前用户手机使用习惯,自学习的可用时间预测模型,越用越精准.
+5. 智能省电,效果看得见
+快速省电,超级省电,模式切换,低电量提醒,内存清理,全方位智能省电,让爱机更持久.",
+    "SOFT_DOWNLOAD_REGION": "2000万+",
+    "SOFT_FEES": "0",
+    "SOFT_ICON_URL": "http://img3.anzhi.com/data2/icon/201405/19/com.ijinshan.kbatterydoctor_94542900_125.png",
+    "SOFT_NAME": "金山电池医生",
+    "SOFT_PROMULGATE_TIME": "2014-06-10",
+    "SOFT_SCREENSHOT_THUMBNAIL_URL": [
+        "http://img3.anzhi.com/data2/thumb/201406/10/com.ijinshan.kbatterydoctor_05678800.jpg",
+        "http://img3.anzhi.com/data2/thumb/201406/10/com.ijinshan.kbatterydoctor_06730000.jpg",
+        "http://img3.anzhi.com/data2/thumb/201406/10/com.ijinshan.kbatterydoctor_08256800.jpg",
+        "http://img3.anzhi.com/data2/thumb/201406/10/com.ijinshan.kbatterydoctor_10248700.jpg",
+        "http://img3.anzhi.com/data2/thumb/201406/10/com.ijinshan.kbatterydoctor_12152100.jpg"
+    ],
+    "SOFT_SCREENSHOT_URL": [
+        "http://img3.anzhi.com/data2/thumb/201406/10/com.ijinshan.kbatterydoctor_06010300.jpg",
+        "http://img3.anzhi.com/data2/thumb/201406/10/com.ijinshan.kbatterydoctor_07055300.jpg",
+        "http://img3.anzhi.com/data2/thumb/201406/10/com.ijinshan.kbatterydoctor_08814900.jpg",
+        "http://img3.anzhi.com/data2/thumb/201406/10/com.ijinshan.kbatterydoctor_10910500.jpg",
+        "http://img3.anzhi.com/data2/thumb/201406/10/com.ijinshan.kbatterydoctor_16638200.jpg"
+    ],
+    "SOFT_SIZE": "4652996",
+    "SOFT_STAR": "9",
+    "SOFT_VERSION": "4.9.2",
+    "SOFT_VERSION_CODE": "4092034",
+    "UPDATE_DES": "1.全新的耗电排行榜，精准分析Top应用耗电趋势
+2.升级版应用耗电详情页，清晰描述各时间段耗电数据
+3.优化充电提醒方式，更简单，更贴心
+4.修复一些已知问题，感谢向我们反馈的用户
+"
+}
