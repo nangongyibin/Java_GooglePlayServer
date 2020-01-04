@@ -28,6 +28,7 @@ public class ImageServlet {
     @RequestMapping(value="/image")
     public void image(@RequestParam("name") String name, HttpServletRequest req, HttpServletResponse resp) throws IOException {
         String path = myConfiguration.getDir() + "/" + "WebInfos/" + name;
+        System.out.println("图片路径："+path);
         File file = new File(path);
         resp.setStatus(HttpServletResponse.SC_OK);
         resp.setCharacterEncoding("UTF-8");

@@ -30,6 +30,7 @@ public class DownloadServlet {
         resp.setStatus(HttpServletResponse.SC_OK);
         resp.setCharacterEncoding("UTF-8");
         String path = myConfiguration.getDir() + "/" + "WebInfos/" + name;
+        System.out.println("下载apk的地址："+path);
         File file = new File(path);
         long length = file.length();
         resp.setContentLength((int) length);
@@ -56,7 +57,7 @@ public class DownloadServlet {
                 int count = -1;
                 byte[] buffer = new byte[1024];
                 while ((count = stream.read(buffer)) != -1) {
-                    System.out.println("@@@2");
+//                    System.out.println("@@@2");
                     try {
                         Thread.sleep(20);
                     } catch (InterruptedException e) {

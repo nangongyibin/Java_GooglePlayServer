@@ -9,5 +9,5 @@ server:
 
 configure:
   #配置文件的访问前缀
-  dir: D:/Users/ASUS/WorkSpace/Java/GooglePlayServer/src/main/resources/static
-#  dir: /usr/local/software/tomcat9/webapps/GooglePlayServer/WEB-INF/classes/static
+#  dir: D:/Users/ASUS/WorkSpace/Java/GooglePlayServer/src/main/resources/static
+  dir: /usr/local/software/tomcat9/webapps/GooglePlayServer/WEB-INF/classes/static
